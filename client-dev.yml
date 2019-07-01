@@ -3,4 +3,6 @@ spring:
     host: 127.0.0.1
     port: 6378
     password: localhost
-spring.application.name=service-client
+spring:
+  application:
+    name: service-client
