@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T02:58:50.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pZvRhP0prW5Bi4W_IKu_" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T03:11:05.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pAPpq3IIdjcAB2h953wS" version="21.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="900" y="131" width="67" height="39" as="geometry" />
         </mxCell>
         <mxCell id="2036" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#003366;shape=mxgraph.azure.cloud_service;dashed=1;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;opacity=25" parent="1" vertex="1">
-          <mxGeometry x="90" y="180" width="970" height="600" as="geometry" />
+          <mxGeometry x="268.5" y="170" width="970" height="600" as="geometry" />
         </mxCell>
         <mxCell id="2037" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.tablet;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="66" y="401" width="50" height="37.5" as="geometry" />
@@ -75,33 +75,6 @@
         </mxCell>
         <mxCell id="2055" value="通信协议" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="594" y="184" width="140" height="176" as="geometry" />
-        </mxCell>
-        <mxCell id="2059" value="Identity" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="773" y="196" width="140" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="2060" value="Windows Azure&amp;nbsp;&lt;div&gt;Active Directorry&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_active_directory;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="819" y="225" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2061" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="774" y="341" width="140" height="199" as="geometry" />
-        </mxCell>
-        <mxCell id="2062" value="Caching" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_cache;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="821" y="376" width="45" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2063" value="Content&amp;nbsp;&lt;div&gt;Delivery Network&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.content_delivery_network;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="819" y="455" width="50" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="2064" value="Messaging" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="773" y="550" width="140" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="2065" value="Queues" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.queue_generic;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="820" y="576" width="50" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="2066" value="Service Bus" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.service_bus;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="824" y="624" width="45" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2067" value="Media Services" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.media_service;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="821" y="703" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2071" value="Web Dashboards" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="998" y="301" width="50" height="30" as="geometry" />
@@ -279,6 +252,33 @@
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2137" value="cloud config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="634" width="52.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2140" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="774.5" y="190" width="136" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2141" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://mdn.alipayobjects.com/huamei_22khvb/afts/img/A*KQZOR72YZEAAAAAAAAAAAAAADiGDAQ/original" vertex="1" parent="1">
+          <mxGeometry x="774.5" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2142" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="823.5" y="258" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2143" value="分布式缓存" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="774.5" y="396" width="136" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2144" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="817.5" y="430" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2145" value="分布式存储" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="774.5" y="530" width="136" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2146" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="563.5" width="110.5" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2151" value="分布式文件存储" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="776.75" y="666" width="136" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2152" value="Fastdfs" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/AzureFXTEdgeFiler.svg;" vertex="1" parent="1">
+          <mxGeometry x="811.5" y="693" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
