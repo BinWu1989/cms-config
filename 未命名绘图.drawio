@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T03:21:29.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1YXxkLHAtS27oOyPIel-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T04:14:51.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TOcwMs69_9UYAu5Zk_sm" version="21.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -273,6 +273,18 @@
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2154" value="服务健康检查" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.health_monitoring;" vertex="1" parent="1">
           <mxGeometry x="997.5" y="341" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2155" value="Prometheus" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://prometheus.io/assets/prometheus_logo_grey.svg" vertex="1" parent="1">
+          <mxGeometry x="991.9399999999999" y="443" width="61.12" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2156" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://skywalking.apache.org/images/logo.svg" vertex="1" parent="1">
+          <mxGeometry x="959.13" y="558.5" width="126.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2157" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.fluentd.org/images/miscellany/fluentd-logo.png" vertex="1" parent="1">
+          <mxGeometry x="959.13" y="634" width="116.5" height="49.22" as="geometry" />
+        </mxCell>
+        <mxCell id="bnEyANYE55PGOY_HVAaA-2158" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://zipkin.io/public/img/logo_png/zipkin_vertical_grey_gb.png" vertex="1" parent="1">
+          <mxGeometry x="998.75" y="693" width="47.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
