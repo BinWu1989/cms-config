@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T08:14:11.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PnRqSCFPZEGMG_cng4ED" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T08:21:57.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xm51bycJntcUjt33i60g" version="21.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
           <mxGeometry x="594" y="466" width="136" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2136" value="服务配置中心" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="598" y="604" width="136" height="90" as="geometry" />
+          <mxGeometry x="598" y="604" width="136" height="76" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2137" value="cloud config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="634" width="52.75" height="30" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry x="247" y="265.5" width="113" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="0mwkGuMEI4eTdj6bXBFE-2077" value="BesMq" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.bessystem.com/resources/image/logo.png;perimeterSpacing=7;imageBackground=#66B2FF;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="316" width="113" height="24.5" as="geometry" />
+          <mxGeometry x="603.5" y="307.75" width="113" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="0mwkGuMEI4eTdj6bXBFE-2078" value="Nacos" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://nacos.io/img/nacos.png;imageBackground=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="600" y="492.5" width="120" height="40" as="geometry" />
@@ -261,6 +261,12 @@
         </mxCell>
         <mxCell id="0mwkGuMEI4eTdj6bXBFE-2080" value="Cache Server" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.bessystem.com/resources/image/logo.png;imageBackground=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="780" y="425.5" width="113" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0mwkGuMEI4eTdj6bXBFE-2081" value="应用服务器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="596" y="693" width="136" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0mwkGuMEI4eTdj6bXBFE-2082" value="Application Server" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.bessystem.com/resources/image/logo.png;perimeterSpacing=7;imageBackground=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="606" y="725.75" width="113" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
