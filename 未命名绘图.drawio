@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T09:24:34.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JbkA-VUmrXygcAvwFqNi" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T06:39:25.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="216DBI8UmWu7zB0Ma0Ev" version="21.2.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -197,13 +197,13 @@
           <mxGeometry x="823.5" y="295" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2143" value="分布式缓存" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="774.5" y="396" width="136" height="104" as="geometry" />
+          <mxGeometry x="774.5" y="376" width="135.5" height="164" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2145" value="分布式存储" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="774.5" y="530" width="136" height="104" as="geometry" />
+          <mxGeometry x="774.5" y="550" width="136" height="104" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2146" value="ElasticSearch" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" parent="1" vertex="1">
-          <mxGeometry x="789.5" y="563.5" width="110.5" height="44.5" as="geometry" />
+          <mxGeometry x="788.49" y="585.75" width="110.5" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2151" value="分布式文件存储" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="776.75" y="666" width="136" height="104" as="geometry" />
@@ -254,7 +254,7 @@
           <mxGeometry x="791.53" y="220" width="101.93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0mwkGuMEI4eTdj6bXBFE-2080" value="Cache Server" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.bessystem.com/resources/image/logo.png;imageBackground=#66B2FF;" parent="1" vertex="1">
-          <mxGeometry x="780" y="425.5" width="113" height="24.5" as="geometry" />
+          <mxGeometry x="785.99" y="407.5" width="113" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="0mwkGuMEI4eTdj6bXBFE-2081" value="应用服务器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="596" y="620" width="136" height="90" as="geometry" />
@@ -264,6 +264,9 @@
         </mxCell>
         <mxCell id="EBSKC6fayAo4qhOZpzIg-2077" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://mdn.alipayobjects.com/huamei_22khvb/afts/img/A*KQZOR72YZEAAAAAAAAAAAAAADiGDAQ/original;fontColor=#333333;labelBackgroundColor=#00CCCC;" parent="1" vertex="1">
           <mxGeometry x="782.75" y="260" width="119.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EAZK8xFr147W8Y7SU-9r-2076" value="RocketMQ" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://rocketmq.apache.org/img/Apache_RocketMQ_logo.svg.png;imageBackground=#808080;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="811.5" y="453.5" width="53" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
