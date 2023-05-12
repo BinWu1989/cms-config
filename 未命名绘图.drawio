@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T06:39:25.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="216DBI8UmWu7zB0Ma0Ev" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T06:45:19.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GR8X9BdgfyFw4PR_K6EV" version="21.2.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           <mxGeometry x="413" y="460" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="2055" value="通信协议" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="594" y="184" width="140" height="206" as="geometry" />
+          <mxGeometry x="594" y="184" width="140" height="246" as="geometry" />
         </mxCell>
         <mxCell id="2075" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -185,10 +185,10 @@
           <mxGeometry x="667.25" y="245" width="52.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2132" value="LoadBalancer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.express_route;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="395" width="50" height="30" as="geometry" />
+          <mxGeometry x="628" y="429" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2134" value="服务配置/注册中心" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="594" y="466" width="136" height="90" as="geometry" />
+          <mxGeometry x="596" y="485.5" width="136" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bnEyANYE55PGOY_HVAaA-2140" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="774.5" y="190" width="136" height="160" as="geometry" />
@@ -245,7 +245,7 @@
           <mxGeometry x="247" y="265.5" width="113" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="0mwkGuMEI4eTdj6bXBFE-2077" value="BesMq" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.bessystem.com/resources/image/logo.png;perimeterSpacing=7;imageBackground=#66B2FF;" parent="1" vertex="1">
-          <mxGeometry x="603.5" y="307.75" width="113" height="24.5" as="geometry" />
+          <mxGeometry x="603.5" y="290" width="113" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="0mwkGuMEI4eTdj6bXBFE-2078" value="Nacos" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://nacos.io/img/nacos.png;imageBackground=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="600" y="492.5" width="120" height="40" as="geometry" />
@@ -266,7 +266,7 @@
           <mxGeometry x="782.75" y="260" width="119.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EAZK8xFr147W8Y7SU-9r-2076" value="RocketMQ" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://rocketmq.apache.org/img/Apache_RocketMQ_logo.svg.png;imageBackground=#808080;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="811.5" y="453.5" width="53" height="57.5" as="geometry" />
+          <mxGeometry x="637.5" y="345" width="53" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
