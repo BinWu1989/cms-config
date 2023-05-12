@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T01:54:56.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hShdFW1T3kKj567cbzZ-" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T06:43:25.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3wNUzr6mdumJsAuiuw7d" version="21.2.3" type="github">
   <diagram name="第 1 页" id="p9CFte0JWL9sLDM4AFNU">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
         <mxCell id="lneK0YjBA9e0hg6_sblq-1" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="vAxDgE2jJmUK2WM6mi8W-52" vertex="1">
           <mxGeometry x="427" y="262" width="153" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="lneK0YjBA9e0hg6_sblq-2" value="BES MQ" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.logs_api;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" parent="lneK0YjBA9e0hg6_sblq-1" vertex="1">
+        <mxCell id="lneK0YjBA9e0hg6_sblq-2" value="BES MQ/RocketMQ" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.logs_api;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" parent="lneK0YjBA9e0hg6_sblq-1" vertex="1">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
